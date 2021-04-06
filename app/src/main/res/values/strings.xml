@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RankingUPrimeraEntrga</string>
+    <string name="inicia_sesion"><u>Inicia sesion</u></string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta?</string>
+    <string name="crea_cuenta"><u>Crea tu cuenta!</u></string>
+    <string name="usuario">Usuario:</string>
+    <string name="password">Contraseña:</string>
+    <string name="Mantener_sesion">Mantener sesion</string>
+    <string name="password_olvidada"><u>¿Olvidaste tu contraseña?</u></string>
+    <string name="iniciar">iniciar</string>
+
+</resources>
